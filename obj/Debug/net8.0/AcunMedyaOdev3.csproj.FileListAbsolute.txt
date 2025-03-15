@@ -1,0 +1,15 @@
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.exe
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.deps.json
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.runtimeconfig.json
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.dll
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.pdb
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.AssemblyInfoInputs.cache
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.AssemblyInfo.cs
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.sourcelink.json
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.dll
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\refint\AcunMedyaOdev3.dll
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.pdb
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.genruntimeconfig.cache
+C:\Users\sahba\source\repos\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\ref\AcunMedyaOdev3.dll
